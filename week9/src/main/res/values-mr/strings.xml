@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_localization_message_1">ही AppLocalizationScreen आहे जिथे तुम्ही अ‍ॅपचे लोकलायझेशन पाहू शकता.</string>
+    <string name="app_localization_message_2">ही स्क्रीन अ‍ॅप इंटरफेससाठी वेगवेगळ्या भाषा पर्यायांची सुविधा देते.</string>
+    <string name="app_localization_message_3">तुम्ही सहजपणे उपलब्ध असलेल्या भाषांमध्ये स्विच करू शकता. फक्त सेटिंग्ज स्क्रीनवर जा आणि भाषा बदला.</string>
+    <string name="select_your_language">तुमची भाषा निवडा</string>
+</resources>

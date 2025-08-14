@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">week9</string>
+    <string name="app_localization_message_1">This is the AppLocalizationScreen where you can see the app localization.</string>
+    <string name="app_localization_message_2">This screen provides different language options for the app interface.</string>
+    <string name="app_localization_message_3">You can switch between supported languages easily. Just go to settings screen and switch the language.</string>
+    <string name="select_your_language">Select your language</string>
+    <string name="notification_channel_id" translatable="false">123</string>
+    <string name="notification_channel_name" translatable="false">My Notification Channel</string>
+    <string name="notification_channel_description" translatable="false">This is a description of my notification channel.</string>
+</resources>

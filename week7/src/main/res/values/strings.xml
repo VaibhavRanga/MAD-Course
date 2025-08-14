@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week7</string>
+    <string name="notification_channel_id">123</string>
+    <string name="notification_channel_name">My Notification Channel</string>
+    <string name="notification_channel_description">This is a channel where we\'ll deliver all notifications.</string>
+    <string name="title_activity_notification_detail">NotificationDetailActivity</string>
+</resources>

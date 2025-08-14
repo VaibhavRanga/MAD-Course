@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_localization_message_1">यह AppLocalizationScreen है जहां आप ऐप स्थानीयकरण देख सकते हैं।</string>
+    <string name="app_localization_message_2">यह स्क्रीन ऐप इंटरफ़ेस के लिए विभिन्न भाषा विकल्प प्रदान करती है।</string>
+    <string name="app_localization_message_3">आप आसानी से समर्थित भाषाओं के बीच स्विच कर सकते हैं। बस सेटिंग स्क्रीन पर जाएं और भाषा बदलें।</string>
+    <string name="select_your_language">अपनी भाषा का चयन करें</string>
+</resources>

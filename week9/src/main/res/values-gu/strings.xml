@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_localization_message_1">આ એપ્લિકેશન લોકલાઇઝેશન સ્ક્રીન છે જ્યાં તમે એપ્લિકેશન લોકલાઇઝેશન જોઈ શકો છો.</string>
+    <string name="app_localization_message_2">આ સ્ક્રીન એપ્લિકેશન ઇન્ટરફેસ માટે વિવિધ ભાષા વિકલ્પો આપે છે.</string>
+    <string name="app_localization_message_3">તમે સરળતાથી સપોર્ટેડ ભાષાઓ વચ્ચે સ્વિચ કરી શકો છો. ફક્ત સેટિંગ્સ સ્ક્રીન પર જાઓ અને ભાષા બદલો.</string>
+    <string name="select_your_language">તમારી ભાષા પસંદ કરો</string>
+</resources>

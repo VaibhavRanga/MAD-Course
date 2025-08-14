@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_localization_message_1">ଏହା AppLocalizationScreen ଯେଉଁଠାରେ ଆପଣ ଆପ୍ଲିକେସନ୍‌ର ଲୋକାଲାଇଜେସନ୍‌ ଦେଖିପାରିବେ।</string>
+    <string name="app_localization_message_2">ଏହି ସ୍କ୍ରିନ୍‌ ଆପ୍ଲିକେସନ୍‌ ଇଣ୍ଟରଫେସ୍‌ ପାଇଁ ବିଭିନ୍ନ ଭାଷା ବିକଳ୍ପ ପ୍ରଦାନ କରେ।</string>
+    <string name="app_localization_message_3">ଆପଣ ସହଜରେ ସମର୍ଥିତ ଭାଷାଗୁଡ଼ିକ ମଧ୍ୟରେ ପରିବର୍ତ୍ତନ କରିପାରିବେ। କେବଳ ସେଟିଂସ୍‌ ସ୍କ୍ରିନ୍‌କୁ ଯାଆନ୍ତୁ ଏବଂ ଭାଷା ବଦଳାନ୍ତୁ।</string>
+    <string name="select_your_language">ଆପଣଙ୍କର ଭାଷା ଚୟନ କରନ୍ତୁ</string>
+</resources>

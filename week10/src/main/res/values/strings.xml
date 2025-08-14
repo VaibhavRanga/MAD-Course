@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">week10</string>
+    <string name="memory_leak_description">If you are not cautious, memory leak will happen.</string>
+</resources>
